@@ -24,7 +24,22 @@ initialize_calendar = function(){
                 calendar.fullCalendar('unselect');
             },
 
-            //eventDrop callback here
+            eventDrop: function(event, delta, revertFunc) {
+                event_data = {
+                    event: {
+                        id: event.id,
+                        start: event.start.format(),
+                        end: event.end.format()
+                    }
+                };
+                $.ajax({
+                    url: event.update_url,
+                    data: event_data,
+                    type: 'PATCH'
+                });
+            },
+
+
         });
     })
 };
