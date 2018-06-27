@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b79804-1e09-4ee3-b3c1-587e66c47bf5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/fullcalendar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/fullcalendar.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/fullcalendar/gcal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/moment.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/fullcalendar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/fullcalendar.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/fullcalendar.print.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/daterangepicker.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/fullcalendar.min.js" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -70,7 +65,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="2560" />
+    <option name="width" value="1011" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
@@ -134,9 +129,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vendor/assets/javascripts" />
       <recent name="$PROJECT_DIR$/vendor/assets/javascripts/fullcalendar" />
       <recent name="$PROJECT_DIR$/vendor/assets/stylesheets" />
-      <recent name="$PROJECT_DIR$/vendor/assets/javascripts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -268,17 +263,17 @@
       <option name="presentableId" value="Default" />
       <updated>1530042833141</updated>
       <workItem from="1530042834858" duration="569000" />
-      <workItem from="1530046192292" duration="1329000" />
+      <workItem from="1530046192292" duration="1576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1898000" />
+    <option name="totallyTimeSpent" value="2145000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1011" height="1027" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24726562" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.62611276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44606414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
