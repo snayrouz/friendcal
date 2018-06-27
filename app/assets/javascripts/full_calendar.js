@@ -23,6 +23,8 @@ initialize_calendar = function(){
 
                 calendar.fullCalendar('unselect');
             },
+
+            //eventDrop callback here
         });
     })
 };
