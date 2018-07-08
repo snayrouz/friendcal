@@ -87,6 +87,8 @@ GEM
     faker (1.8.7)
       i18n (>= 0.7)
     ffi (1.9.25)
+    figaro (1.1.1)
+      thor (~> 0.14)
     fullcalendar-rails (3.9.0.0)
       jquery-rails (>= 4.0.5, < 5.0.0)
       jquery-ui-rails (>= 5.0.2)
@@ -247,6 +249,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   factory_bot_rails
   faker
+  figaro
   fullcalendar-rails
   jbuilder (~> 2.5)
   jquery-rails
